@@ -1,0 +1,16 @@
+* {
+  margin: auto;
+}
+
+body {
+  background-color: #fd7272;
+}
+
+.navbar {
+  color: white;
+}
+
+.box {
+  margin: 0 auto;
+  width: 60%;
+}
